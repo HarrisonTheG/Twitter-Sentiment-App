@@ -2,9 +2,13 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>apiKey</key>
-	<string>VqREOfuYGHgZhHQjtK5Q4m5Q3</string>
-	<key>apiSecretKey</key>
-	<string>olpZ5gQ1cuggodY2Far951AZpvYBgVUPh0jgyFTiUHqejLedco</string>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Twittermenti.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+	</dict>
 </dict>
 </plist>

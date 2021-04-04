@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct ApiKeys: Codable{
+    var apiKey:String
+    var apiSecretKey:String
+}
